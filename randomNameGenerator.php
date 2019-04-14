@@ -36,7 +36,7 @@ class randomNameGenerator {
 		$last_names  = $this->getList('last-names');
 
 		$count = range(1, $num );
-		$name_r = array();
+		$name_arr = array();
 
 		foreach( $count as $name ) {
 				$count++;
