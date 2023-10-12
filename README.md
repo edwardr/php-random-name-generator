@@ -1,6 +1,6 @@
 # PHP Random Name Generator
 
-#### Update: October 2024: I recommend using [Faker PHP library](https://github.com/FakerPHP/Faker) as it is more robust.
+##### Update: October 2024: I recommend using [Faker PHP library](https://github.com/FakerPHP/Faker) as it is more robust.
 
 PHP class capable of generating millions of random name combinations (first names and surnames) for use as demo data in applications and other projects.
 
